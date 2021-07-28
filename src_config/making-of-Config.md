@@ -38,7 +38,7 @@ Thank you Jean-Marc Molines @IGE-Grenoble for the tutorial.
     ./make_xios --job 6 --arch X64_JEANZAY	#QJ: update with JEAN-ZAY config files from (xios-2.5 -r 1903)
 ```
 
-    At this stage, if the previous `make_xios` was successful, you end up with an operational XIOS in `$DEVDIR/xios-2.0_rev_1630`
+At this stage, if the previous `make_xios` was successful, you end up with an operational XIOS in `$DEVDIR/xios-2.0_rev_1630`
 
 **QJ**: The `arch.env` from `./xios-x.x/` specified the modules used to compile XIOS. Check consistency with other compilation/execution procedures.
 
