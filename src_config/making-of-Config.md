@@ -40,7 +40,7 @@ Thank you Jean-Marc Molines @IGE-Grenoble for the tutorial.
 
 At this stage, if the previous `make_xios` was successful, you end up with an operational XIOS in `$DEVDIR/xios-2.0_rev_1630`
 
-**QJ**: The `arch.env` from `./xios-x.x/` specified the modules used to compile XIOS. Check consistency with other compilation/execution procedures.
+**QJ**: The `arch.env` from `./xios-x.x/` specifies the modules used to compile XIOS. Check consistency with other compilation/execution procedures.
 
 
 ### Create your MEDWEST60 configuration
